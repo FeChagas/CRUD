@@ -1,0 +1,2 @@
+{"message":"This is my error log message from Monolog","context":{"loggingLibrary":"Monolog"},"level":400,"level_name":"ERROR","channel":"appLogger","datetime":"2020-07-27T03:27:02.263432+00:00","extra":{"memory_usage":"2 MB"}}
+{"message":"Some error","context":{},"level":400,"level_name":"ERROR","channel":"appLogger","datetime":"2020-07-27T03:35:26.237651+00:00","extra":{"memory_usage":"2 MB"}}

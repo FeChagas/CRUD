@@ -1,0 +1,1 @@
+{"message":"Customer with ID 6 successfuly UPDATED","context":{"id":"6","name":"VALDENICE ALMEIDA DE AGUIAR","email":"valdenicea.aguiar@gmail.com","document":"65656565656","phone":"948641112"},"level":200,"level_name":"INFO","channel":"crudLogger","datetime":"2020-07-27T06:27:15.565862+00:00","extra":{"memory_usage":"2 MB"}}
